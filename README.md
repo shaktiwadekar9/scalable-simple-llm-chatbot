@@ -4,6 +4,10 @@
 
 This project demonstrates building a simple yet scalable LLM chat application using microservices architecture and Docker for containerization. It provides a user-friendly web interface to interact with OpenAI's GPT models through a chat interface.
 
+## Technical Blog or Article explaninig the project
+
+[Technical Blog Link](https://shaktiwadekar.medium.com/learning-to-build-scalable-llm-chat-application-microservices-architecture-and-docker-93ea1335871e)
+
 ## Files information
 
 ### Components

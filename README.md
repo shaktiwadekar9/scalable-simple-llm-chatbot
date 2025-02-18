@@ -6,7 +6,10 @@ This project demonstrates building a simple yet scalable LLM chat application us
 
 ## Technical Blog or Article explaninig the project
 
-[Technical Blog Link](https://shaktiwadekar.medium.com/learning-to-build-scalable-llm-chat-application-microservices-architecture-and-docker-93ea1335871e)
+[Technical Blog Link: Code](https://shaktiwadekar.medium.com/learning-to-build-scalable-llm-chat-application-microservices-architecture-and-docker-93ea1335871e)
+
+[Technical Blog Link: AWS](https://shaktiwadekar.medium.com/understanding-scalable-deployment-tools-on-aws-aws-ecr-ecs-alb-iam-and-secrets-manager-8869c937de88)
+
 
 ## Files information
 
